@@ -1,0 +1,6 @@
+$ yarn create react-app 프로젝트명
+
+yarn 사용안할때 - $npm init react-app
+
+$cd 프로젝트명
+$yarn start
